@@ -1,3 +1,7 @@
+.hk{width:750px;}
+@media screen and (max-width: 1100px){
+  .hk{width: auto;}
+}
 @font-face {
   font-family: 'maicons';
   src:  url('../fonts/maicons.eot?c9nlkl');
